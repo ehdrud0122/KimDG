@@ -3,6 +3,7 @@ I am Kim Donggyeong in [서울과학기술대학교](https://www.seoultech.ac.kr
 I love game
 ### Korean Population by Region
 * Total population: 51669716
+ 
 | Region | Population | Ratio (%) |
 | ------ | ---------- | --------- |
 | Seoul | 9550227 | 18.5 |
@@ -25,6 +26,7 @@ I love game
 
 ### Korean COVID-19 New Cases by Region
 * Total New Cases: 1714
+
 | Region | New cases | Ratio (%) | New Cases / 1M |
 | ------ | --------- | --------- | ---------- |
 | Seoul | 644 | 37.6 | 67.4 |
